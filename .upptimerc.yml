@@ -1,5 +1,5 @@
 # Change these first
-owner: roinichruben # Your GitHub organization or username, where this repository lives
+owner: roinichruben/monitoreo # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -13,8 +13,6 @@ sites:
     url: https://www.google.com
   
 
-assignees:
-  - roinichruben
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
