@@ -9,6 +9,8 @@ sites:
     url: https://som.uocra.net
   - name: Correo
     url: https://webmail.uocra.org
+    - name: Goole
+    url: https://www.google.com
   
 
 status-website:
