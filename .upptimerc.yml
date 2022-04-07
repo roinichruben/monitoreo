@@ -9,12 +9,12 @@ sites:
     url: https://som.uocra.net
   - name: Correo
     url: https://webmail.uocra.org
-    - name: Goole
+  - name: Goole
     url: https://www.google.com
   
 
 assignees:
-- roinichruben
+  - roinichruben
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
